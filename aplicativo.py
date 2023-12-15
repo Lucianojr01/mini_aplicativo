@@ -244,5 +244,4 @@ class application(Funcs, Relatorios):
         # canvas.draw()
         canvas.get_tk_widget().place(relx=0, rely=0, relwidth=1, relheight=1)
 
-
 application()
